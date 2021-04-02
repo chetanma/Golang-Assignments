@@ -1,0 +1,5 @@
+[
+    { "Username": "user1", "Password": "pass1", "IsAdmin": true },
+    { "Username": "user2", "Password": "pass2", "IsAdmin": true },
+    { "Username": "user3", "Password": "pass3", "IsAdmin": false }
+]

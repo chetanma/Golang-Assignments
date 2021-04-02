@@ -1,0 +1,50 @@
+[
+    {
+        "Source": "B",
+        "Id": 6001,
+        "Availability": 0,
+        "Date": "10-March-2020",
+        "Sourceurl": "http://localhost:8002",
+        "Size": "L"
+    },
+    {
+        "Source": "B",
+        "Id": 6002,
+        "Availability": 8,
+        "Date": "10-March-2020",
+        "Sourceurl": "http://localhost:8002",
+        "Size": "XL"
+    },
+    {
+        "Source": "B",
+        "Id": 6003,
+        "Availability": 0,
+        "Date": "10-March-2020",
+        "Sourceurl": "http://localhost:8002",
+        "Size": "L"
+    },
+    {
+        "Source": "B",
+        "Id": 6004,
+        "Availability": 0,
+        "Date": "10-March-2020",
+        "Sourceurl": "http://localhost:8002",
+        "Size": "L"
+    },
+    {
+        "Source": "B",
+        "Id": 6005,
+        "Availability": 8,
+        "Date": "10-March-2020",
+        "Sourceurl": "http://localhost:8002",
+        "Size": "S"
+    },
+    {
+        "Source": "B",
+        "Id": 6006,
+        "Availability": 9,
+        "Date": "10-March-2020",
+        "Sourceurl": "http://localhost:8002",
+        "Size": "S"
+    }
+]
